@@ -13,8 +13,8 @@ div+=`
 <div class='col'>
 <div class='card'>
 <img src=${obj.url}>
-<h3>${obj.product_name}</h3>
-<p>${obj.price}</p>
+<h3>Product Type: ${obj.product_name}</h3>
+<p>Price: Rs.${obj.price}</p>
 </div>
 </div>`
 
